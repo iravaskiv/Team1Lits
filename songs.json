@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Sting",
+    "duration": 10,
+    "song": "Shape of my heart"
+  },
+  {
+    "artist": "Sting",
+    "duration": 5,
+    "song": "Englishman in New York"
+  },
+  {
+    "artist": "Sting",
+    "duration": 7,
+    "song": "Desert rose"
+  },
+  {
+    "artist": "Sting",
+    "duration": 4,
+    "song": "Fragile"
+  }
+]
